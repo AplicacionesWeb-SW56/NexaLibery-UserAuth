@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "json-server-auth db.json -r routes.json"
   },
   "repository": {
     "type": "git",
