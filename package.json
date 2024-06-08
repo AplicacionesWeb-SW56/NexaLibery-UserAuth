@@ -1,0 +1,20 @@
+{
+  "name": "nexalibery-userauth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server-auth db.json -r routes.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AplicacionesWeb-SW56/NexaLibery-UserAuth.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AplicacionesWeb-SW56/NexaLibery-UserAuth/issues"
+  },
+  "homepage": "https://github.com/AplicacionesWeb-SW56/NexaLibery-UserAuth#readme"
+}
